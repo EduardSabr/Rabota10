@@ -3,6 +3,7 @@
 import random
 import logging
 from datetime import datetime
+# настройка логгера
 logging.basicConfig(filename='game.log', format='%(asctime)s [%(levelname)s] %(message)s', level=logging.DEBUG)
 
 def a(N, k):
