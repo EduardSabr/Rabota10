@@ -12,5 +12,6 @@
 # Инструкция по работе
 Скачать код в GitHub под названием 'zadanie 10.py'. Запустить код. Ввести крайнее число N от которого мы будем угадывать (от 1 и до N число) и количество попыток (k). Также с кодом должен прилагаться log.файл. Он журналирует все этапы, которые мы начали. 
 # Результаты тестирования
-![Alt-текст](https://github.com/EduardSabr/Rabota08/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
-![Alt-текст](https://github.com/EduardSabr/Rabota08/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota10/blob/main/1%20photo.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota10/assets/146577127/a157c342-9857-4e15-93b8-b56d4cd9c9b3)
+
